@@ -15,23 +15,24 @@
 
 ## 🛠 Tech Stack
 - **Languages:** C#, SQL
-- **Backend:** ASP.NET Core, Web API
+- **Backend:** ASP.NET Core
 - **Database:** SQL Server
 - **ORM:** Entity Framework Core
 - **Tools:** Visual Studio, VS Code
 
 ---
 
-## 🎯 2026 SMART Goals
-- Build **2 complete ASP.NET Core Web API projects** and publish them on GitHub within 4 months.
-- Practice Git daily and maintain **consistent commits for 60 days**.
-- Learn and apply **Clean Architecture** in at least one real project.
+## 📘 Currently Learning
+- Authorization & Authentication in ASP.NET
+- Git & GitHub fundamentals
+- RESTful APIs with ASP.NET Core
 
 ---
 
-## 📌 Featured Projects
-- 🔹 *(Coming soon)* RESTful API with ASP.NET Core
-- 🔹 *(Coming soon)* Authentication & Authorization project
+## 🎯 2026 SMART Goals
+- Build **2 complete ASP.NET Core Web API projects** and publish them on GitHub within 4 months.
+- Learn **Git fundamentals** and use it to manage my projects within 2 Months.
+- Learn and apply **Clean Architecture** in at least one real project.
 
 ---
 
