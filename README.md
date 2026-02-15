@@ -37,8 +37,7 @@
 
 ## 📫 How to Reach Me
 - GitHub: https://github.com/SalehJalabi
-- Email: your-email@example.com
-
+- Email: mhmdmh2004@gmail.com
 ---
 
 ⭐ Feel free to explore my repositories and follow my journey!
